@@ -1,0 +1,143 @@
+[02-Mar-2026 17:09:08 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:09:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:09:15 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:09:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:09:15 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:09:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:09:15 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:09:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:15:37 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:15:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:23:38 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:23:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:54 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:24:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:25:08 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:25:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:25:08 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:25:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:26:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:27:01 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:27:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:16 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:16 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:17 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:34:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:35:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:54 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:54 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Warning:  require_once(/home/viducduo/public_html/backend/controllers/backendcontroller.php): failed to open stream: No such file or directory in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:37:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/viducduo/public_html/backend/controllers/backendcontroller.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/viducduo/public_html/router.php on line 64
+[02-Mar-2026 17:40:40 UTC] PHP Notice:  Undefined index: email in /home/viducduo/public_html/backend/controllers/backendController.php on line 2361
+[02-Mar-2026 17:44:37 UTC] PHP Notice:  Undefined index: email in /home/viducduo/public_html/backend/controllers/backendController.php on line 2361
+[02-Mar-2026 17:49:49 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/viducduo/public_html/backend/controllers/backendController.php on line 794
+[02-Mar-2026 17:49:49 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/viducduo/public_html/backend/controllers/backendController.php on line 794
+[02-Mar-2026 17:50:16 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/viducduo/public_html/libs/vendor/composer/platform_check.php on line 24
+[02-Mar-2026 17:50:50 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/viducduo/public_html/libs/vendor/composer/platform_check.php on line 24
+[02-Mar-2026 17:51:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 17:51:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 17:51:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 17:51:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 17:51:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 18:11:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 18:11:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 18:11:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 18:11:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 18:12:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[02-Mar-2026 18:39:28 UTC] PHP Notice:  Undefined variable: lichHen in /home/viducduo/public_html/backend/views/patientManagement/form-benh-nhan.php on line 2
+[02-Mar-2026 18:39:34 UTC] PHP Notice:  Undefined variable: lichHen in /home/viducduo/public_html/backend/views/patientManagement/form-benh-nhan.php on line 2
+[02-Mar-2026 18:50:58 UTC] PHP Notice:  Undefined index: email in /home/viducduo/public_html/backend/controllers/backendController.php on line 2361
+[02-Mar-2026 19:30:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) in /home/viducduo/public_html/backend/controllers/backendController.php on line 1708
+[02-Mar-2026 19:33:08 UTC] PHP Notice:  Undefined variable: from in /home/viducduo/public_html/backend/controllers/backendController.php on line 1692
+[02-Mar-2026 19:38:57 UTC] PHP Notice:  Undefined variable: lich_hen in /home/viducduo/public_html/backend/views/patientManagement/form-benh-nhan.php on line 3
+[02-Mar-2026 19:38:58 UTC] PHP Notice:  Undefined variable: lich_hen in /home/viducduo/public_html/backend/views/patientManagement/form-benh-nhan.php on line 3
+[02-Mar-2026 19:38:58 UTC] PHP Notice:  Undefined variable: lich_hen in /home/viducduo/public_html/backend/views/patientManagement/form-benh-nhan.php on line 3
+[02-Mar-2026 19:49:15 UTC] PHP Notice:  Undefined variable: from in /home/viducduo/public_html/backend/controllers/backendController.php on line 1692
+[02-Mar-2026 20:05:37 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/viducduo/public_html/backend/controllers/backendController.php on line 794
+[02-Mar-2026 20:05:37 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/viducduo/public_html/backend/controllers/backendController.php on line 794
+[02-Mar-2026 20:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelClinic::getHoaDonByLichKhamId() in /home/viducduo/public_html/backend/controllers/backendController.php:3054
+Stack trace:
+#0 /home/viducduo/public_html/router.php(76): backendController->chiTietLichSuKham()
+#1 /home/viducduo/public_html/admin.php(148): Router->dispatchAdmin()
+#2 {main}
+  thrown in /home/viducduo/public_html/backend/controllers/backendController.php on line 3054
+[02-Mar-2026 20:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelClinic::getHoaDonByLichKhamId() in /home/viducduo/public_html/backend/controllers/backendController.php:3054
+Stack trace:
+#0 /home/viducduo/public_html/router.php(76): backendController->chiTietLichSuKham()
+#1 /home/viducduo/public_html/admin.php(148): Router->dispatchAdmin()
+#2 {main}
+  thrown in /home/viducduo/public_html/backend/controllers/backendController.php on line 3054
+[02-Mar-2026 20:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelClinic::getHoaDonByLichKhamId() in /home/viducduo/public_html/backend/controllers/backendController.php:3054
+Stack trace:
+#0 /home/viducduo/public_html/router.php(76): backendController->chiTietLichSuKham()
+#1 /home/viducduo/public_html/admin.php(148): Router->dispatchAdmin()
+#2 {main}
+  thrown in /home/viducduo/public_html/backend/controllers/backendController.php on line 3054
+[02-Mar-2026 20:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelClinic::getHoaDonByLichKhamId() in /home/viducduo/public_html/backend/controllers/backendController.php:3054
+Stack trace:
+#0 /home/viducduo/public_html/router.php(76): backendController->chiTietLichSuKham()
+#1 /home/viducduo/public_html/admin.php(148): Router->dispatchAdmin()
+#2 {main}
+  thrown in /home/viducduo/public_html/backend/controllers/backendController.php on line 3054
+[02-Mar-2026 20:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelClinic::getHoaDonByLichKhamId() in /home/viducduo/public_html/backend/controllers/backendController.php:3054
+Stack trace:
+#0 /home/viducduo/public_html/router.php(76): backendController->chiTietLichSuKham()
+#1 /home/viducduo/public_html/admin.php(148): Router->dispatchAdmin()
+#2 {main}
+  thrown in /home/viducduo/public_html/backend/controllers/backendController.php on line 3054
+[02-Mar-2026 20:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelClinic::getHoaDonByLichKhamId() in /home/viducduo/public_html/backend/controllers/backendController.php:3054
+Stack trace:
+#0 /home/viducduo/public_html/router.php(76): backendController->chiTietLichSuKham()
+#1 /home/viducduo/public_html/admin.php(148): Router->dispatchAdmin()
+#2 {main}
+  thrown in /home/viducduo/public_html/backend/controllers/backendController.php on line 3054
+[02-Mar-2026 20:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelClinic::getHoaDonByLichKhamId() in /home/viducduo/public_html/backend/controllers/backendController.php:3054
+Stack trace:
+#0 /home/viducduo/public_html/router.php(76): backendController->chiTietLichSuKham()
+#1 /home/viducduo/public_html/admin.php(148): Router->dispatchAdmin()
+#2 {main}
+  thrown in /home/viducduo/public_html/backend/controllers/backendController.php on line 3054
+[03-Mar-2026 02:42:04 UTC] PHP Notice:  Undefined index: email in /home/viducduo/public_html/backend/controllers/backendController.php on line 2411
+[03-Mar-2026 02:44:57 UTC] PHP Notice:  Undefined variable: from in /home/viducduo/public_html/backend/controllers/backendController.php on line 1692
+[03-Mar-2026 02:48:57 UTC] PHP Notice:  Trying to access array offset on value of type int in /home/viducduo/public_html/backend/controllers/backendController.php on line 794
+[03-Mar-2026 02:49:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[03-Mar-2026 02:50:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
+[03-Mar-2026 02:50:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/viducduo/public_html/frontend/views/auth/change_password.php on line 2
